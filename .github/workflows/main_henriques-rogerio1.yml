@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'henriques-rogerio1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2aece8a0cb304d32b4c279d23c020f34 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2810e4457bd14200be3f41cf2726877b }}
